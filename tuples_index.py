@@ -4,6 +4,7 @@ print(type(fahd))
 
 
 
+
 # print(fahd[2:6])
 #
 # print(len(fahd))
